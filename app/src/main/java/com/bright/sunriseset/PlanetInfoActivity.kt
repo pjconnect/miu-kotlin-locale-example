@@ -26,6 +26,7 @@ class PlanetInfoActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
     private val preferredLocale: Locale = Locale.CHINESE
+//    private val preferredLocale: Locale = Locale.getDefault()
 
     /**
      * Called when the activity is first created. This function initializes the activity, inflates the layout,

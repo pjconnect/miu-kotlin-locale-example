@@ -1,1 +1,1 @@
-# Forced Locale Example
+# Locale Example
