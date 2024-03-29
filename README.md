@@ -1,1 +1,2 @@
-# Locale Example
+# MIU Coursework
+### Android Locale Example App
